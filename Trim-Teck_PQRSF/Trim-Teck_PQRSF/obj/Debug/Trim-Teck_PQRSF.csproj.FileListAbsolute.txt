@@ -1,0 +1,6 @@
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\Trim-Teck_PQRSF\bin\Debug\Trim-Teck_PQRSF.dll
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\Trim-Teck_PQRSF\bin\Debug\Trim-Teck_PQRSF.pdb
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\Trim-Teck_PQRSF\obj\Debug\Trim-Teck_PQRSF.csprojAssemblyReference.cache
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\Trim-Teck_PQRSF\obj\Debug\Trim-Teck_PQRSF.csproj.CoreCompileInputs.cache
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\Trim-Teck_PQRSF\obj\Debug\Trim-Teck_PQRSF.dll
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\Trim-Teck_PQRSF\obj\Debug\Trim-Teck_PQRSF.pdb

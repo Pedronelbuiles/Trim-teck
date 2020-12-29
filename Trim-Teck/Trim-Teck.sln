@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trim-Teck", "Trim-Teck\Trim-Teck.csproj", "{73FDF9B5-5ABE-42B8-B4A3-0E53698EF418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FDF9B5-5ABE-42B8-B4A3-0E53698EF418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FDF9B5-5ABE-42B8-B4A3-0E53698EF418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FDF9B5-5ABE-42B8-B4A3-0E53698EF418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FDF9B5-5ABE-42B8-B4A3-0E53698EF418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E409915-B015-40FD-8734-55A39009F2E5}
+	EndGlobalSection
+EndGlobal

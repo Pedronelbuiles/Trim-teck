@@ -1,0 +1,17 @@
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\tiposSolicitudes.dll
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\tiposSolicitudes.pdb
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\SpreadsheetLight.dll
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\Trim-Teck_PQRSF.dll
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\Trim-Teck_PQRSF.pdb
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\SpreadsheetLight.xml
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\obj\Debug\tiposSolicitudes.csprojAssemblyReference.cache
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\obj\Debug\tiposSolicitudes.csproj.CoreCompileInputs.cache
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\obj\Debug\tiposSolicitudes.csproj.CopyComplete
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\obj\Debug\tiposSolicitudes.dll
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\obj\Debug\tiposSolicitudes.pdb
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\tiposSolicitudes.dll.config
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\System.IO.Packaging.dll
+C:\Desarrollos\temporal\Mio\Herencia y polimorfismo\Trim-Teck_PQRSF\tiposSolicitudes\bin\Debug\System.IO.Packaging.xml
